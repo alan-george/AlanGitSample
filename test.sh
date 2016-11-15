@@ -1,0 +1,2 @@
+echo "KRITTER"
+echo "WELL AGAIN ITS KRITTER"
